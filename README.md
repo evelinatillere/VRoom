@@ -7,7 +7,7 @@ Studentiem un amatieriem, kuri vēlas pilnveidot savu telpisko domāšanu un att
 
 # Interesting links:
 - [Playground base](https://assetstore.unity.com/packages/3d/environments/playground-low-poly-191533)
-
+- [swing](https://assetstore.unity.com/packages/3d/props/exterior/swing-19032)
 # 3D modelēšana
 
 | Nosaukums | Links | Atbildīgais             | Datums   |
